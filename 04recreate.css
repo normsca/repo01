@@ -1,0 +1,11 @@
+*{ margin: 0 auto;}
+#nav {
+  background-color: green;
+  margin-left: 50px;
+  margin-top: 45px;
+  word-spacing: 20px;
+}
+
+a {color: white; text-decoration: none;}
+a:hover {text-decoration: underline;}
+/* comment 01 - modified by nca. */
